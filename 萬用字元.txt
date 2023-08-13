@@ -1,0 +1,7 @@
+萬用字元		尋找Ctrl+F	取代Ctrl+H
+
+? (問號)	任何單一字元
+例如，sm？th 會找到 "smith" 和 "smyth"
+
+* (星號)	任何字元數
+例如，*east 會找到 "East" 和 "Southeast"
